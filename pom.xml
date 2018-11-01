@@ -2,18 +2,18 @@
     xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 
     <modelVersion>4.0.0</modelVersion>
-    <groupId>com.bitmovin.api</groupId>
+    <groupId>com.ebs.emp</groupId>
     <artifactId>bitmovin-java</artifactId>
     <version>1.43.0</version>
     <name>Bitmovin Java Client</name>
-    <url>https://github.com/bitmovin/bitmovin-java</url>
+    <url>https://github.com/EricssonBroadcastServices/bitmovin-java.git</url>
     <description>JAVA-Client which enables you to seamlessly integrate the all new Bitmovin API into your existing projects.</description>
     <organization>
         <name>bitmovin</name>
         <url>http://www.bitmovin.com</url>
     </organization>
     <scm>
-        <url>https://github.com/bitmovin/bitmovin-java.git</url>
+        <url>https://github.com/EricssonBroadcastServices/bitmovin-java.git</url>
     </scm>
     <developers>
         <developer>
