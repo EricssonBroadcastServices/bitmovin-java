@@ -21,6 +21,8 @@ public class Message
 
     private String more;
 
+    private String date;
+
     public Message()
     {
     }
@@ -44,4 +46,8 @@ public class Message
     public String getMore() { return this.more; }
 
     public void setMore(String more) { this.more = more; }
+
+    public String getDate() { return this.date; }
+
+    public void setDate(String date) { this.date = date; }
 }

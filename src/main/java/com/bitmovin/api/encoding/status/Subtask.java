@@ -15,6 +15,7 @@ public class Subtask
 {
     private Status status;
     private int progress;
+    private String updatedAt;
 
     private String name;
 
@@ -40,4 +41,8 @@ public class Subtask
     public List<Message> getMessages() { return this.messages; }
 
     public void setMessages(List<Message> messages) { this.messages = messages; }
+
+    public String getUpdatedAt() { return this.updatedAt; }
+
+    public void setUpdatedAt(String updatedAt) { this.updatedAt = updatedAt; }
 }
